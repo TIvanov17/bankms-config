@@ -5,7 +5,7 @@ accounts:
   message : "[Proda]"
   contactDetails :
     name : "A Proda"
-    email : "a.proda@email.com"
+    email : "{cipher}261f395ac23cd6912d3b6a9f097eeb5d403b72ca421359020408a22fc6e7604133184d25dee00499a8e195b61f06a0a5"
   onCallSupport :
     - 1234567890
     - 0987654321
