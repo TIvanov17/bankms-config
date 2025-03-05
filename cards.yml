@@ -1,7 +1,7 @@
 build:
   version: "3.0"
 
-accounts:
+cards:
   message: "Neshto"
   contactDetails:
     name: "Test Testov"
