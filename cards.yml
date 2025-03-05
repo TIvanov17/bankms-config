@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Neshto"
+  contactDetails:
+    name: "Test Testov"
+    email: "t.testov@email.com"
+  onCallSupport:
+    - 1234567890
+    - 0987654321

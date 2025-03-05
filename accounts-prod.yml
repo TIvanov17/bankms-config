@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message : "[Proda]"
+  contactDetails :
+    name : "A Proda"
+    email : "a.proda@email.com"
+  onCallSupport :
+    - 1234567890
+    - 0987654321
