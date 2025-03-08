@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message : "[Proda]"
+  message : "[Production]"
   contactDetails :
     name : "A Proda"
     email : "a.proda@email.com"
